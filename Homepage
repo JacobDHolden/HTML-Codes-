@@ -9,12 +9,15 @@
 </head>
 
 <body>
-  <h1>Responsible Gambling Tactics</h1>
-  <p>The purpose of this website is to provide gamblers with rules, guidleines, and calculators to avoid betting
-    mistakes and placing bad bets.</p>
-  <p>Don't be the one to squanders your childs college fund!</p>
-  <img src=https://bestbingouk.com/wp-content/uploads/2020/06/Gambling-Problems-2048x1366.jpg alt="Gambling" width="350"
-    height="200"">
+  <article>
+    <h1>Responsible Gambling Tactics</h1>
+    <p>The purpose of this website is to provide gamblers with rules, guidleines, and calculators to avoid betting
+      mistakes and placing bad bets.</p>
+  </article>
+  <section>
+    <p>Don't be the one to squanders your childs college fund!</p>
+    <img src=https://bestbingouk.com/wp-content/uploads/2020/06/Gambling-Problems-2048x1366.jpg alt="Gambling"
+      width="350" height="200"">
     <h3>Rules</h3>
     <ol>
       <li>Do not bet more than algorithm states.</li>
@@ -28,25 +31,30 @@
       <li>Hunt for value in bets.</li>
       <li>Learn to find an edge.</li>
     </ul>
+    </section>
 
     <a href=" glossay.html">Glossary</a>
 
-  <p>Gambling addiction? <a
-      href=https://www.ncpgambling.org/help-treatment/about-the-national-problem-gambling-helpline/>Click this link for
+    <p>Gambling addiction? <a
+        href=https://www.ncpgambling.org/help-treatment/about-the-national-problem-gambling-helpline />Click this link
+      for
       resources.</a></p>
-  <p>More rules to follow and learn. <a
-      href=https://responsibleplay.pa.gov/get-gambling-addiction-help/resources-for-gamblers/rules-of-responsible-gaming/>Click
+    <p>More rules to follow and learn. <a
+        href=https://responsibleplay.pa.gov/get-gambling-addiction-help/resources-for-gamblers/rules-of-responsible-gaming />Click
       this link to learn more.</a>
-  </p>
-  <h3>Books to read before betting.</h3>
-  <ul>
-    <li>"Sharp Sports Betting." By: Stanford Wong <a
-        href=https://www.amazon.com/Sharp-Sports-Betting-Stanford-Wong/dp/0935926240>Link to book.</a> <img
-        src=https://cdn10.bigcommerce.com/s-g9n04qy/products/642196/images/657298/51_S8Zqrn9L._SL1300___22753.1658858078.1280.1280.jpg?c
-        alt="Wong book cover" width="100" height="80""></li>
+    </p>
+    <section>
+      <h3>Books to read before betting.</h3>
+      <ul>
+        <li>"Sharp Sports Betting." By: Stanford Wong <a
+            href=https://www.amazon.com/Sharp-Sports-Betting-Stanford-Wong/dp/0935926240>Link to book.</a> <img
+            src=https://cdn10.bigcommerce.com/s-g9n04qy/products/642196/images/657298/51_S8Zqrn9L._SL1300___22753.1658858078.1280.1280.jpg?c
+            alt="Wong book cover" width="100" height="80""></li>
       <li>" Gambler: Secrets from a Life at Risk." By: Billy Walters <a
-        href=https://www.amazon.com/Gambler-Secrets-Life-at-Risk/dp/1668032856/>Link to book.</a><img
-        src=https://m.media-amazon.com/images/I/71hWYm+S3IL._SL1500_.jpg alt="Walters book cover" width="100"
-        height="80""></li>
+            href=https://www.amazon.com/Gambler-Secrets-Life-at-Risk/dp/1668032856 />Link to book.</a><img
+            src=https://m.media-amazon.com/images/I/71hWYm+S3IL._SL1500_.jpg alt="Walters book cover" width="100"
+            height="80""></li>
     </ul>
+    </section>
+</body>
 </html>
